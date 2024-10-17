@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dumit\\repos\\opengl-course-library\\Course Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5F8613-A112-4E96-BAC1-5C9157C0311B}|Course Library.vcxproj|C:\\Users\\dumit\\repos\\opengl-course-library\\Course Library\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD5F8613-A112-4E96-BAC1-5C9157C0311B}|Course Library.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5F8613-A112-4E96-BAC1-5C9157C0311B}|Course Library.vcxproj|C:\\Users\\dumit\\repos\\opengl-course-library\\Course Library\\example.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FD5F8613-A112-4E96-BAC1-5C9157C0311B}|Course Library.vcxproj|solutionrelative:example.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5F8613-A112-4E96-BAC1-5C9157C0311B}|Course Library.vcxproj|C:\\Users\\dumit\\repos\\opengl-course-library\\Course Library\\example.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FD5F8613-A112-4E96-BAC1-5C9157C0311B}|Course Library.vcxproj|solutionrelative:example.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "example.frag",
+              "DocumentMoniker": "C:\\Users\\dumit\\repos\\opengl-course-library\\Course Library\\example.frag",
+              "RelativeDocumentMoniker": "example.frag",
+              "ToolTip": "C:\\Users\\dumit\\repos\\opengl-course-library\\Course Library\\example.frag",
+              "RelativeToolTip": "example.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-17T17:43:42.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "example.vert",
+              "DocumentMoniker": "C:\\Users\\dumit\\repos\\opengl-course-library\\Course Library\\example.vert",
+              "RelativeDocumentMoniker": "example.vert",
+              "ToolTip": "C:\\Users\\dumit\\repos\\opengl-course-library\\Course Library\\example.vert",
+              "RelativeToolTip": "example.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-17T17:37:04.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\dumit\\repos\\opengl-course-library\\Course Library\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\dumit\\repos\\opengl-course-library\\Course Library\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T17:07:58.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
